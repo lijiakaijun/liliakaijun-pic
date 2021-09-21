@@ -1,6 +1,7 @@
 {
   "name": "bilibili_神乐Mea",
   "type": "webp",
+  "prefix": "mea_",
   "icon": "我很可爱请给我钱",
   "items": ["我很可爱请给我钱", "擦盘子", "对不起"]
 }

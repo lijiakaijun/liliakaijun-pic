@@ -1,6 +1,7 @@
 {
   "name": "bilibili_花丸",
   "type": "webp",
+  "prefix": "花丸_",
   "icon": "好耶",
   "items": ["对不起", "好耶"]
 }
